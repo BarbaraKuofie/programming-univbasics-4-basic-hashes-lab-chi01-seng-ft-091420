@@ -22,6 +22,5 @@ def id_hash_generator(number)
   # return a hash with a key :id assigned to the provided number
   has2 = {
     :id => number
-    
   }
 end
